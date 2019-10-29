@@ -1,0 +1,13 @@
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\telcodatagen.exe.config
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\telcodatagen.exe
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\telcodatagen.pdb
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\obj\Debug\telcodatagen.csprojAssemblyReference.cache
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\obj\Debug\telcodatagen.csproj.CopyComplete
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\obj\Debug\telcodatagen.exe
+C:\Users\ipamo\OneDrive\Development\azure-stream-analytics\DataGenerators\TelcoGenerator\obj\Debug\telcodatagen.pdb
